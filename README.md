@@ -1,6 +1,9 @@
+[![hackmd-github-sync-badge](https://hackmd.io/_B9lFlGRQHeICXCit3MsOA/badge)](https://hackmd.io/_B9lFlGRQHeICXCit3MsOA)
+
 AGENTES OD4D: GENERANDO CAPACIDADES Y REDES PARA EL DESARROLLO DEL ECOSISTEMA DE LOS DATOS ABIERTOS PARA EL DESARROLLO SOSTENIBLE
 ===
-![](https://i.imgur.com/g1cmYNq.png =500x300)
+
+![](https://i.imgur.com/g1cmYNq.png =450x250)
 
 Taller de explotación y visualización de datos geográficos -  Junio - 2021
 ===
@@ -106,9 +109,69 @@ Taller de explotación y visualización de datos geográficos -  Junio - 2021
 *
 *
 
-:derelict_house: Segundo Mapa, Mapa de sismos ( 10 Min) 
+:chart_with_downwards_trend: Mapa de sismos ( 10 Min) 
 ---
-*Por favor agrega tu nombre y la URL de tu primer mapa. Recuerda este primer mapa vincula datos de la comunidad ArcGIS Online o del repositorio curado de datos Living Atlas*
+*Por favor agrega tu nombre y la URL de tu mapa de sismos. Recuerda este primer mapa vincula datos de la comunidad ArcGIS Online o del repositorio curado de datos Living Atlas*
+
+* 
+*
+*
+*
+*
+*
+*
+*
+
+:house: Mapa de Castastal ( 10 Min) 
+---
+*Por favor agrega tu nombre y la URL de tu mapa catastral. Puedes agregar el nombre del municipio que haz incluido*
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+:national_park: Mapa con Datos de Open Street Map ( 10 Min) 
+---
+*Por favor agrega tu nombre y la URL de tu mapa con datos de OSM. Puedes agregar el nombre del municipio que haz incluido*
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+:trophy: Visores Geograficos ( 10 Min) 
+---
+*Por favor agrega tu nombre y la URL de tu primer visor geográfico.*
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+:checkered_flag: StoryMap ( 10 Min) 
+---
+*Por favor agrega tu nombre y la URL de tu StoryMap.*
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+
 
 
 
