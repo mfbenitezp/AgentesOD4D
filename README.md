@@ -32,7 +32,7 @@ Taller de explotación y visualización de datos geográficos -  Junio - 2021
 - **QGIS:** Cliente SIG de escritorio Libre  https://www.qgis.org/
 - **ArcGIS Pro:** Cliente de SIG con Licencia https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview
 - **GitHub:** Crear repositorios colaborativos usando control de versiones  https://github.com/
-- **Learn Git:** https://learngitbranching.js.org/ Aprender el concepto de control de versión en el que esta basado GitHub
+- **Learn Git:** https://learngitbranching.js.org/ Aprender el concepto de control de versión en el que está basado GitHub
 - **Periodismo de Datos Libro:** https://datajournalismhandbook.org/
 - **StoryMaps:**  Para crear StoryMaps usando multiples recursos de media https://storymaps.arcgis.com/
 - **Survey123:** Para crear encuestas geo-referenciadas usando ArcGIS Online https://survey123.arcgis.com/
@@ -60,22 +60,23 @@ Taller de explotación y visualización de datos geográficos -  Junio - 2021
 :cocktail: Quienes estamos aquí (4 Mins)
 ---
 
+
 *Por favor agrega tu nombre en las siguientes lineas, y responde a la pregunta:*
+
 
 **:question: ¿Cúal es tu recomendación hasta el momento en el 2021? (Pelicula, Serie, Musica, Video, Juego, Deporte, Podcast, o cualquier cosa que te haya cautivado en lo que llevamos del 2021**
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+**Sabado**
+* Albérica García | Libro 'Tokio Blues'
+* Ana Maria Ioanas | Libro: 'Las gratitudes'
+* Jorge Manuel Herculano | **Serie** | Gambito de Dama
+* Carlos Cortés | **Película** |Nomadland
+* Iago Otero | **Canción** | Sen Senra - Sublime
+* Jose Ignacio Pastor | Libro| Noruega
+* Ana Maria García Bernabeu| Libro |El olvido que seremos
+* Isacar Marín Garcñia | Serie | 30 monedas
 
-
-* **Viernes**
+**Viernes**
   * Fernando Benitez | **Libro** | Thinking Fast and Slow por Daniel Kahneman 
   * Manel Domingo | **Libro** | El Precariado por Guy Standing
   * Carlos Lozoya| **Serie**|The  Falcon and the Winter Soldier 
@@ -89,23 +90,6 @@ Taller de explotación y visualización de datos geográficos -  Junio - 2021
   * Ana Zepeda.
 
     
-
-
-:tangerine: El mundo como una mandarina (5 Min)
----
-
-*Por favor agrega tu nombre y la foto de tu proyecction mandarina :tangerine:*
-
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-
 :globe_with_meridians: Portales Geográficos ( 10 Min)
 ---
 
@@ -113,56 +97,69 @@ Taller de explotación y visualización de datos geográficos -  Junio - 2021
 
 * Fernando Benitez | sigdev.arcgis.com
 * Pilar de la Fuente | https://arcg.is/LPGyj
-* 
-* 
-* 
-* 
-* 
-* 
+* Jorge | https://jop7pdfe1uoluonf.maps.arcgis.com/home/index.html
+* Isacar Marín García | https://isacar.maps.arcgis.com/
+* Iago Otero | https://iagotero.maps.arcgis.com/home/index.html
+* Ana | https://anir1q1tbs6qkmoz.maps.arcgis.com/home/index.html
+* Jose Ignacio  https://apwph9xzvuyt1evk.maps.arcgis.com/home/index.html
+* Ana Maria Ioanas |https://anfc3wltpxeejmgr.maps.arcgis.com/home/index.html 
+* Luisa Oliva 
+* https://luiyailmpsukmpp8.maps.arcgis.com/home/index.html
+* Carlos Cortés | https://carlosgeosportal.maps.arcgis.com/home/organization.html#overview
+* Albérica García | https://albdjahpan2tcknc.maps.arcgis.com/home/index.html
+* Gonzalo Gayo https://gojar25w7d7grhok.maps.arcgis.com/apps/mapviewer/index.html
+
 
 :world_map: Primer Mapa ( 5 Min)
 ---
 
 *Por favor agrega tu nombre y la URL de tu primer mapa. Recuerda este primer mapa vincula datos de la comunidad ArcGIS Online o del repositorio curado de datos Living Atlas*
 
-* 
-* 
-* 
-* 
+**Sabado**
+   * Jose Ignacio Pastor | https://arcg.is/14HmKD0
+   * Isacar Marín García | https://arcg.is/0DTvXD
+   * Carlos Cortés | https://arcg.is/1qODHq
+   * Iago Otero | https://arcg.is/0qyDnO
+   * Albérica García | https://arcg.is/1DTvP91
+   * Ana Maria Ioanas | https://arcg.is/1rrC0q
+   * Ana García https://arcg.is/1XXbDD 
+   * Jorge | https://arcg.is/5Pjqr0
+   * María José Sanmartin | https://arcg.is/1yGS5m
+   * Ana Maria Ioanas | https://arcg.is/1TTrqa
+   * Gonzalo Gayo https://arcg.is/0uiyaT
 
+**Viernes**
 
-
-* **Viernes**
-    * Fernando Benitez https://sigdev.maps.arcgis.com/home/webmap/viewer.html?webmap=140d7382902e4f21888c728a896568aa
-    * Noemi Núñez https://arcg.is/18z8Hr1
-    * Manel Domingo https://arcg.is/1eyv9y
-    * Ana Zepeda.https://arcg.is/1HrCiv
-    * Quedó muy feo, pero lo hice :D
-    * Pablo Fernández. https://pae5pwlgtmmzatoq.maps.arcgis.com/apps/mapviewer/index.html?webmap=4a6d43732a62424d9be0d82353314e33
-    * Carlos Lozoya
+   * Fernando Benitez https://sigdev.maps.arcgis.com/home/webmap/viewer.html?webmap=140d7382902e4f21888c728a896568aa
+   * Noemi Núñez https://arcg.is/18z8Hr1
+   * Manel Domingo https://arcg.is/1eyv9y
+   * Ana Zepeda.https://arcg.is/1HrCiv
+   * Quedó muy feo, pero lo hice :D
+   * Pablo Fernández. https://pae5pwlgtmmzatoq.maps.arcgis.com/apps/mapviewer/index.html?webmap=4a6d43732a62424d9be0d82353314e33
+   * Carlos Lozoya
 https://cab2wsj2xuh4r7fk.maps.arcgis.com/home/webmap/viewer.html?webmap=17b86199b0844fe4a8b95a2e96d3668e
-    * María Díaz https://arcg.is/1Lme511 // https://arcg.is/mXinL
-    * Pilar de la Fuente https://arcg.is/LPGyj
+   * María Díaz https://arcg.is/1Lme511 // https://arcg.is/mXinL
+   * Pilar de la Fuente https://arcg.is/LPGyj
 
 
 :chart_with_downwards_trend: Mapa de sismos ( 10 Min) 
 ---
 *Por favor agrega tu nombre y la URL de tu mapa de sismos.*
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+**Sabado**
+* Fernando Benitez https://arcg.is/1TWmqW
+* Jorge | https://arcg.is/1r9aiu
+* Carlos Cortés | https://arcg.is/1LOjiC0
+* Isacar Marín García | https://arcg.is/14z90O
+* Ana García https://arcg.is/1DXDLX0
+* Iago Otero | https://arcg.is/0f09uK0
+* María José Sanmartín | https://arcg.is/HiG4z0
+ 
+**Viernes**
 
-
-* **Viernes**
-    * Pilar https://arcg.is/0bvK500 y mapa por magnitud https://arcg.is/0bvK500
-    * Noemi https://arcg.is/1L4uy5
-    * Maria https://arcg.is/mvyqq
+* Pilar https://arcg.is/0bvK500 y mapa por magnitud https://arcg.is/0bvK500
+* Noemi https://arcg.is/1L4uy5
+* Maria https://arcg.is/mvyqq
 
 
 :bike: Mapa de los accidentes de transito en madrid que involucran bicicletas​ ( 10 Min) 
@@ -180,19 +177,18 @@ https://cab2wsj2xuh4r7fk.maps.arcgis.com/home/webmap/viewer.html?webmap=17b86199
 ---
 *Por favor agrega tu nombre y la URL de tu mapa catastral. Puedes agregar el nombre del municipio que haz incluido*
 
-* 
-* 
-* 
-* 
-* 
-* 
+* Iago Otero | https://arcg.is/19fXfa
+* Ana Maria Ioanas | https://arcg.is/fyzPa
+* Fernando Benitez https://arcg.is/10TOny
+* Ana Maria Ioanas | https://arcg.is/fyzPa
+* Jose Ignacio | https://arcg.is/1my5ae0
 
 
 :national_park: Mapa con Datos de Open Street Map ( 10 Min) 
 ---
 *Por favor agrega tu nombre y la URL de tu mapa con datos de OSM. Puedes agregar el nombre del municipio que haz incluido*
 
-* 
+* Ana Maria Ioanas | https://arcg.is/0uLmfq0
 * 
 * 
 * 
